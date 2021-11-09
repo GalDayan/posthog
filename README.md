@@ -8,7 +8,13 @@ asdasdasdasd
 PostHog provides open-source product analytics, built for developers. Automate the collection of every event on your website or app, with no need to send data to 3rd parties. With just 1 click you can deploy on your own infrastructure, having full API/SQL access to the underlying data. 
 =======
 
-PostHog is an open-source product analytics suite, built for developers. Automate the collection of every event on your website or app, with no need to send data to third-parties. 
+
+<br /><br />
+
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2.jpg" width="50px" />
+
+## Quick Starasdasdasdtasdasd
+
 
 You can deploy on your own infrastructure, and PostHog plays nicely with data warehouses through plugins for import, transformation, and export. 
 
